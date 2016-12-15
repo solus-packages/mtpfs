@@ -2,10 +2,11 @@
     <Source>
         <Name>mtpfs</Name>
         <Packager>
-            <Name>Solus Packaging Team</Name>
-            <Email>packaging@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>GPL-3.0</License>
+        <PartOf>desktop.util</PartOf>
         <Summary xml:lang="en">MTPFS is a FUSE filesystem based on libmtp that allows a mtp device to be browsed as if it were a normal external harddisk.</Summary>
         <Description xml:lang="en">MTPFS is a FUSE filesystem based on libmtp that allows a mtp device to be browsed as if it were a normal external harddisk.
 </Description>
@@ -22,12 +23,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2015-05-26</Date>
+        <Update release="3">
+            <Date>2016-12-15</Date>
             <Version>1.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Solus Packaging Team</Name>
-            <Email>packaging@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
